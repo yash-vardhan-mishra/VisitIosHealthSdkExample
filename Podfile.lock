@@ -1,0 +1,21 @@
+PODS:
+  - TwilioVideo (4.6.3)
+  - VisitIosHealthSdk (0.2.9):
+    - TwilioVideo (~> 4.4)
+
+DEPENDENCIES:
+  - VisitIosHealthSdk
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - TwilioVideo
+  https://github.com/VisitApp/visit-ios-pod-spec:
+    - VisitIosHealthSdk
+
+SPEC CHECKSUMS:
+  TwilioVideo: 4afaac028c5886f2f3b313a9fcc146a6b7ca34e2
+  VisitIosHealthSdk: bd057e24fb8cd22d09e639f2d19cffc496224d03
+
+PODFILE CHECKSUM: aa906c3bb2059664573d26e97dba89b0fa108cbf
+
+COCOAPODS: 1.11.3
